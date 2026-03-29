@@ -1,0 +1,1168 @@
+{
+  "sha": "a1f34b5d6a118d373b353a664ab6c434aac396b4",
+  "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/trees/a1f34b5d6a118d373b353a664ab6c434aac396b4",
+  "tree": [
+    {
+      "path": ".dockerignore",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d2c29fcd7a93a11e35d5a06a5b94f828b319adb4",
+      "size": 33,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/d2c29fcd7a93a11e35d5a06a5b94f828b319adb4"
+    },
+    {
+      "path": ".env.example",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6ba3e526f7be37bf2543ef21dd00299731b57188",
+      "size": 139,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/6ba3e526f7be37bf2543ef21dd00299731b57188"
+    },
+    {
+      "path": ".eslintignore",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d18331581e565af4e47550697db7754014142c03",
+      "size": 26,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/d18331581e565af4e47550697db7754014142c03"
+    },
+    {
+      "path": ".eslintrc.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7ce3fc1673d72d3c21f2be3bf0f31c3993e3493d",
+      "size": 181,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/7ce3fc1673d72d3c21f2be3bf0f31c3993e3493d"
+    },
+    {
+      "path": ".gitignore",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "de994f951db4cb9e0ccb9efff1a02f432e1eb5e1",
+      "size": 416,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/de994f951db4cb9e0ccb9efff1a02f432e1eb5e1"
+    },
+    {
+      "path": ".husky",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "60925d647fea3b94cf496cd4bb21076a87c0faa7",
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/trees/60925d647fea3b94cf496cd4bb21076a87c0faa7"
+    },
+    {
+      "path": ".husky/pre-commit",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "cf0c46b936c647a48c38cfbf9d837b280fcbb754",
+      "size": 82,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/cf0c46b936c647a48c38cfbf9d837b280fcbb754"
+    },
+    {
+      "path": ".prettierignore",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "976500316ceff007dc018b36aef8e782b02e217b",
+      "size": 61,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/976500316ceff007dc018b36aef8e782b02e217b"
+    },
+    {
+      "path": "Dockerfile",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "208b5aca1809b3730934483a9326a13c87f6c59d",
+      "size": 788,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/208b5aca1809b3730934483a9326a13c87f6c59d"
+    },
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3a1b65d9f59e0e57c0b521389062e4e592841d73",
+      "size": 4178,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/3a1b65d9f59e0e57c0b521389062e4e592841d73"
+    },
+    {
+      "path": "next.config.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "113a71bfc3407e05f703bb8e6b8c3d789155ddbb",
+      "size": 738,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/113a71bfc3407e05f703bb8e6b8c3d789155ddbb"
+    },
+    {
+      "path": "package.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1dbd3005d49b268277086080c9688af4c13ac4df",
+      "size": 1930,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/1dbd3005d49b268277086080c9688af4c13ac4df"
+    },
+    {
+      "path": "pnpm-lock.yaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f2930bfe68ebb48b2e021b58d0e558bf8cb1dc3f",
+      "size": 214974,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/f2930bfe68ebb48b2e021b58d0e558bf8cb1dc3f"
+    },
+    {
+      "path": "postcss.config.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "12a703d900da8159c30e75acbd2c4d87ae177f62",
+      "size": 83,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/12a703d900da8159c30e75acbd2c4d87ae177f62"
+    },
+    {
+      "path": "prettier.config.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "eaea23842ab1271fa0512d981c34942f16364e6b",
+      "size": 192,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/eaea23842ab1271fa0512d981c34942f16364e6b"
+    },
+    {
+      "path": "public",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "cd145813adee5990495cee90c38b03bd2255bc00",
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/trees/cd145813adee5990495cee90c38b03bd2255bc00"
+    },
+    {
+      "path": "public/favicon.ico",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ca1c70f2bd2086d61c6537892d2edaaa12acaa6b",
+      "size": 15406,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/ca1c70f2bd2086d61c6537892d2edaaa12acaa6b"
+    },
+    {
+      "path": "public/icons",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "ed4577eeb5258982aa699a142d6b8404a2546c2f",
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/trees/ed4577eeb5258982aa699a142d6b8404a2546c2f"
+    },
+    {
+      "path": "public/icons/aws.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e1b6c1dfb462bf564fd27beec6efbba2aa766dd7",
+      "size": 2041,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/e1b6c1dfb462bf564fd27beec6efbba2aa766dd7"
+    },
+    {
+      "path": "public/icons/css.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "86a3c8859576809d1d27af65f48787e18c3b486c",
+      "size": 1285,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/86a3c8859576809d1d27af65f48787e18c3b486c"
+    },
+    {
+      "path": "public/icons/docker.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e1e413ef6ce9ee308944714f3e747d57b6693fff",
+      "size": 2408,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/e1e413ef6ce9ee308944714f3e747d57b6693fff"
+    },
+    {
+      "path": "public/icons/fram.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b9ff7b022c7e408f76a05b117181909788c9bfbc",
+      "size": 154,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/b9ff7b022c7e408f76a05b117181909788c9bfbc"
+    },
+    {
+      "path": "public/icons/git.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "834f5531a5956d64a6b822daa9fc7e9abf092ad2",
+      "size": 1331,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/834f5531a5956d64a6b822daa9fc7e9abf092ad2"
+    },
+    {
+      "path": "public/icons/github.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3da7734f2d9be1351a306f3cdcc6c91d06204fde",
+      "size": 2925,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/3da7734f2d9be1351a306f3cdcc6c91d06204fde"
+    },
+    {
+      "path": "public/icons/graphql.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "779374f70725bff739c2d4bb9c794933051c8d3e",
+      "size": 3649,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/779374f70725bff739c2d4bb9c794933051c8d3e"
+    },
+    {
+      "path": "public/icons/html.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e25cb90942464d705fab6a662e3d105df07e2967",
+      "size": 1165,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/e25cb90942464d705fab6a662e3d105df07e2967"
+    },
+    {
+      "path": "public/icons/javascript.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ded250b9bfd5a631928079c7eed6165ce02911fa",
+      "size": 1005,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/ded250b9bfd5a631928079c7eed6165ce02911fa"
+    },
+    {
+      "path": "public/icons/mongodb.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5ee2821a52d71c7147bae6cfb6fb5dd16ec79ec4",
+      "size": 2070,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/5ee2821a52d71c7147bae6cfb6fb5dd16ec79ec4"
+    },
+    {
+      "path": "public/icons/mui.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "16f9b2ca2b931515b6bab88431059300fab8f075",
+      "size": 912,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/16f9b2ca2b931515b6bab88431059300fab8f075"
+    },
+    {
+      "path": "public/icons/nodejs.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ec5b30969997ea2a4201a11c8160f0468b9ed37c",
+      "size": 3442,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/ec5b30969997ea2a4201a11c8160f0468b9ed37c"
+    },
+    {
+      "path": "public/icons/postgresql.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d1eefea11d5eeaea96ef5b480bb6d6c8b38397a6",
+      "size": 13312,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/d1eefea11d5eeaea96ef5b480bb6d6c8b38397a6"
+    },
+    {
+      "path": "public/icons/postman.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "267da65ec8327e470734eeb6844b4442f0a1a970",
+      "size": 3130,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/267da65ec8327e470734eeb6844b4442f0a1a970"
+    },
+    {
+      "path": "public/icons/prisma.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b7d5936a3196d17076d698d8dc5a8108dd57e89f",
+      "size": 616,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/b7d5936a3196d17076d698d8dc5a8108dd57e89f"
+    },
+    {
+      "path": "public/icons/python.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3dc6ace17e019c6b1072a3fd73ce6374c68a25f8",
+      "size": 3000,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/3dc6ace17e019c6b1072a3fd73ce6374c68a25f8"
+    },
+    {
+      "path": "public/icons/react-router-color.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7075eefb6245f62a2016491efe708d06cd4218aa",
+      "size": 1802,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/7075eefb6245f62a2016491efe708d06cd4218aa"
+    },
+    {
+      "path": "public/icons/reactjs.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a53fc58fc4c57518f623aad247df7884d95f405c",
+      "size": 2256,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/a53fc58fc4c57518f623aad247df7884d95f405c"
+    },
+    {
+      "path": "public/icons/redux.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2fa04c972b8de156dd5caccbec6f037a355e435d",
+      "size": 2303,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/2fa04c972b8de156dd5caccbec6f037a355e435d"
+    },
+    {
+      "path": "public/icons/sass.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9f7b40a0b2326fc60d3238888c90f800acdedd20",
+      "size": 8227,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/9f7b40a0b2326fc60d3238888c90f800acdedd20"
+    },
+    {
+      "path": "public/icons/solidjs.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "05cd3348dbeda514224b20eccfed22aa5e0b6c35",
+      "size": 1599,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/05cd3348dbeda514224b20eccfed22aa5e0b6c35"
+    },
+    {
+      "path": "public/icons/tailwindcss.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2843063aabf4238942f86f5d07051d7106fa31f3",
+      "size": 1556,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/2843063aabf4238942f86f5d07051d7106fa31f3"
+    },
+    {
+      "path": "public/icons/typescript.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c52c2bf3397312412b995a4f2f0cdb6e93b8ee31",
+      "size": 1033,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/c52c2bf3397312412b995a4f2f0cdb6e93b8ee31"
+    },
+    {
+      "path": "public/icons/vite.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e7b8dfb1b2a60bd50538bec9f876511b9cac21e3",
+      "size": 1497,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/e7b8dfb1b2a60bd50538bec9f876511b9cac21e3"
+    },
+    {
+      "path": "public/icons/vscode.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6807d57ee5257e1805c6ba239b72e7f625a9a49a",
+      "size": 4657,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/6807d57ee5257e1805c6ba239b72e7f625a9a49a"
+    },
+    {
+      "path": "public/images",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "03f5b26d6212ef4918273c6c93089fc8b7211edb",
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/trees/03f5b26d6212ef4918273c6c93089fc8b7211edb"
+    },
+    {
+      "path": "public/images/heroProfile.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c6c69066fa569c1677aef2401731fd2ca5e7ae39",
+      "size": 165309,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/c6c69066fa569c1677aef2401731fd2ca5e7ae39"
+    },
+    {
+      "path": "public/images/projects",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "6b4fe4e13a557db5598bb1d08f203888709f89a4",
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/trees/6b4fe4e13a557db5598bb1d08f203888709f89a4"
+    },
+    {
+      "path": "public/images/projects/3DView.webp",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c77ba1995376a402896466e492c7476326b0c18f",
+      "size": 43136,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/c77ba1995376a402896466e492c7476326b0c18f"
+    },
+    {
+      "path": "public/images/projects/covidTracker.webp",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "423da5dac90d646eb8849e0ce8d9400bdf8d37f2",
+      "size": 23480,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/423da5dac90d646eb8849e0ce8d9400bdf8d37f2"
+    },
+    {
+      "path": "public/images/projects/covidTrackerMap.webp",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c6013ffd755f1d21dffd9797ab1612f4aa317a3c",
+      "size": 34508,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/c6013ffd755f1d21dffd9797ab1612f4aa317a3c"
+    },
+    {
+      "path": "public/images/projects/covidTrackerTable.webp",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "782b1588f84abc19c90929c7a191f1b4672a9c57",
+      "size": 18978,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/782b1588f84abc19c90929c7a191f1b4672a9c57"
+    },
+    {
+      "path": "public/images/projects/jsontreeDark.webp",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b224d941a5df98b4c0d3acf5cc6964d4c1932339",
+      "size": 53064,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/b224d941a5df98b4c0d3acf5cc6964d4c1932339"
+    },
+    {
+      "path": "public/images/projects/jsontreeLight.webp",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3ab78eabe2f43bbee7d282a191e2d582bb4c57e7",
+      "size": 53456,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/3ab78eabe2f43bbee7d282a191e2d582bb4c57e7"
+    },
+    {
+      "path": "public/images/projects/kanbanCardLight.webp",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "87d03c4d3adabcce923a17bfe4c078faad303587",
+      "size": 27500,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/87d03c4d3adabcce923a17bfe4c078faad303587"
+    },
+    {
+      "path": "public/images/projects/kanbanDark.webp",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "62ab4d5be67599e528dc6c229f7ef34a91c0215e",
+      "size": 27732,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/62ab4d5be67599e528dc6c229f7ef34a91c0215e"
+    },
+    {
+      "path": "public/images/projects/kanbanLight.webp",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "29f73067a3ea416f47af2e7dc72ed090024deb98",
+      "size": 28516,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/29f73067a3ea416f47af2e7dc72ed090024deb98"
+    },
+    {
+      "path": "public/images/projects/logos",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "db7cf2d1b30b640387098b5045d58d68766c3a96",
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/trees/db7cf2d1b30b640387098b5045d58d68766c3a96"
+    },
+    {
+      "path": "public/images/projects/logos/covidtracker.ico",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3e972767774be3dab5dcc16a4ad97a7ea2b17385",
+      "size": 15406,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/3e972767774be3dab5dcc16a4ad97a7ea2b17385"
+    },
+    {
+      "path": "public/images/projects/logos/jsontree.ico",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3b520def8df62b648c16f9aa1eef68a4c09c4e5d",
+      "size": 15406,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/3b520def8df62b648c16f9aa1eef68a4c09c4e5d"
+    },
+    {
+      "path": "public/images/projects/logos/kanban.ico",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "555678880fbf20c0220d042df40a935020151e1c",
+      "size": 15406,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/555678880fbf20c0220d042df40a935020151e1c"
+    },
+    {
+      "path": "public/images/projects/logos/manygames.ico",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "50b2eed56d4fc2b2dd7808aaf801d436d4f600ec",
+      "size": 15406,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/50b2eed56d4fc2b2dd7808aaf801d436d4f600ec"
+    },
+    {
+      "path": "public/images/projects/logos/stockpredictor.ico",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b8adedaccbf440c235095bd0d8cf5649226031c3",
+      "size": 15406,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/b8adedaccbf440c235095bd0d8cf5649226031c3"
+    },
+    {
+      "path": "public/images/projects/manyGames2048.webp",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cfeac4fa84a4bc2e774404f6d80bee3d12bfb1b1",
+      "size": 9834,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/cfeac4fa84a4bc2e774404f6d80bee3d12bfb1b1"
+    },
+    {
+      "path": "public/images/projects/manyGamesDark.webp",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b5f54a4aaacb54198da0823088eed10a4f270333",
+      "size": 41018,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/b5f54a4aaacb54198da0823088eed10a4f270333"
+    },
+    {
+      "path": "public/images/projects/manyGamesLight.webp",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b0180dee43c386986996fe5f0a10b21ffe0622d7",
+      "size": 42600,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/b0180dee43c386986996fe5f0a10b21ffe0622d7"
+    },
+    {
+      "path": "public/images/projects/manyGamesPuzzle.webp",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "972b2502e064175c4b4ab78f2e07d90ce11cf7b2",
+      "size": 47914,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/972b2502e064175c4b4ab78f2e07d90ce11cf7b2"
+    },
+    {
+      "path": "public/images/projects/manyGamesWordle.webp",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1d681b92d5d73296c375adc0af5b8d47b9a166d5",
+      "size": 13500,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/1d681b92d5d73296c375adc0af5b8d47b9a166d5"
+    },
+    {
+      "path": "public/images/projects/portfolioDark.webp",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0ff12f00bfb5687f32e8a5c5ef6fa1b6a1d274e7",
+      "size": 22816,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/0ff12f00bfb5687f32e8a5c5ef6fa1b6a1d274e7"
+    },
+    {
+      "path": "public/images/projects/portfolioLight.webp",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d422d51d9f72e0564919ebaa05f9f7b64306f7af",
+      "size": 25334,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/d422d51d9f72e0564919ebaa05f9f7b64306f7af"
+    },
+    {
+      "path": "public/images/projects/stockPredictor.webp",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "99ac3be1004f2f7fd1416553bd328064081d110d",
+      "size": 25798,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/99ac3be1004f2f7fd1416553bd328064081d110d"
+    },
+    {
+      "path": "public/images/projects/stockPredictorCandleChart.webp",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a75f27645c0b1b9e7761d2d02c7f312a7b5d9bd1",
+      "size": 29552,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/a75f27645c0b1b9e7761d2d02c7f312a7b5d9bd1"
+    },
+    {
+      "path": "public/images/projects/stockPredictorCompareChart.webp",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "52e402fec207f6f825922aef33e30a05d9225175",
+      "size": 27644,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/52e402fec207f6f825922aef33e30a05d9225175"
+    },
+    {
+      "path": "public/images/projects/stockPredictorLineChart.webp",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2883015484fc9fadd339224d10e38c62247eaea2",
+      "size": 31424,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/2883015484fc9fadd339224d10e38c62247eaea2"
+    },
+    {
+      "path": "public/static",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "fe28a1a0782b130347f68eaaf169f2db5cf364fb",
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/trees/fe28a1a0782b130347f68eaaf169f2db5cf364fb"
+    },
+    {
+      "path": "public/static/homepage.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0ffcc98e3ce00e2651f39e9dc917e209e91e17e5",
+      "size": 150420,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/0ffcc98e3ce00e2651f39e9dc917e209e91e17e5"
+    },
+    {
+      "path": "src",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "f25b1e386cefb1a8a53b7a5277a291259417d51c",
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/trees/f25b1e386cefb1a8a53b7a5277a291259417d51c"
+    },
+    {
+      "path": "src/animation",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "2f7543b2afcf36946f5b03c925e70a75e91b29d6",
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/trees/2f7543b2afcf36946f5b03c925e70a75e91b29d6"
+    },
+    {
+      "path": "src/animation/animated-logo.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "144e9289a5f64d7b2674498f2d6140af07651c92",
+      "size": 1013,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/144e9289a5f64d7b2674498f2d6140af07651c92"
+    },
+    {
+      "path": "src/animation/fade-right.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9e9f0e7605827faeab864b9a2c6341ab20f1bb7f",
+      "size": 732,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/9e9f0e7605827faeab864b9a2c6341ab20f1bb7f"
+    },
+    {
+      "path": "src/animation/fade-up.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "88518439d8a13f49387570147041b4dc63b1cae1",
+      "size": 645,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/88518439d8a13f49387570147041b4dc63b1cae1"
+    },
+    {
+      "path": "src/components",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "3022d2868f76b291dacacc72ba9ae2ff0ab7b2f3",
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/trees/3022d2868f76b291dacacc72ba9ae2ff0ab7b2f3"
+    },
+    {
+      "path": "src/components/about-hero.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "445c199e642a504694144f451138e03cd487effb",
+      "size": 3112,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/445c199e642a504694144f451138e03cd487effb"
+    },
+    {
+      "path": "src/components/contact-form",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "484f8b8e1e6e63f4a40a1eface3b63803178841a",
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/trees/484f8b8e1e6e63f4a40a1eface3b63803178841a"
+    },
+    {
+      "path": "src/components/contact-form/contact-button.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ffa1f5cf3335c32e11a9c0d35521e393c1dd1432",
+      "size": 1675,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/ffa1f5cf3335c32e11a9c0d35521e393c1dd1432"
+    },
+    {
+      "path": "src/components/contact-form/contact-form-modal.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "685f26aa7c51db7a3f15dca978ac7c28f22c43ae",
+      "size": 4056,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/685f26aa7c51db7a3f15dca978ac7c28f22c43ae"
+    },
+    {
+      "path": "src/components/contact-form/contact-form.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "71905d5b6773ec20aa555130a295c4b381c73d52",
+      "size": 4529,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/71905d5b6773ec20aa555130a295c4b381c73d52"
+    },
+    {
+      "path": "src/components/contact-form/contact-mail-toast.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e387a202c01e392a4456a9e04f766d6ebbb9e7d5",
+      "size": 1477,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/e387a202c01e392a4456a9e04f766d6ebbb9e7d5"
+    },
+    {
+      "path": "src/components/contact-form/floating-mail-button.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3053f9760e55a46c8490c69d65bfd2878a906a67",
+      "size": 789,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/3053f9760e55a46c8490c69d65bfd2878a906a67"
+    },
+    {
+      "path": "src/components/cursor-trail-canvas.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fe45e7dffce07982c817e76f138c5b2774390dae",
+      "size": 704,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/fe45e7dffce07982c817e76f138c5b2774390dae"
+    },
+    {
+      "path": "src/components/duotone-image.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0d6b97cfac01fe49a22063515210ebdb3392fe08",
+      "size": 4696,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/0d6b97cfac01fe49a22063515210ebdb3392fe08"
+    },
+    {
+      "path": "src/components/experience",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "64599e72b3caf1df74321718ce5cff30db3f4792",
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/trees/64599e72b3caf1df74321718ce5cff30db3f4792"
+    },
+    {
+      "path": "src/components/experience/experience-showcase-list-item.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "eebae9b31692704f1820d4c695e97919a420f417",
+      "size": 2290,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/eebae9b31692704f1820d4c695e97919a420f417"
+    },
+    {
+      "path": "src/components/experience/experience-showcase-list.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8ba2e845bd981a7183730f8aebbb698c277ecbb2",
+      "size": 1355,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/8ba2e845bd981a7183730f8aebbb698c277ecbb2"
+    },
+    {
+      "path": "src/components/icons.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ab234e76e443661a4d16a5d3816101ae4c7260ba",
+      "size": 11679,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/ab234e76e443661a4d16a5d3816101ae4c7260ba"
+    },
+    {
+      "path": "src/components/landing-hero.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3ca9f71ef4f423cad4a36dce580bc93fb89937b3",
+      "size": 2504,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/3ca9f71ef4f423cad4a36dce580bc93fb89937b3"
+    },
+    {
+      "path": "src/components/page-transition-animation.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d80b1a47b4941db6b13e728cebd6b6d66305f4fb",
+      "size": 1692,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/d80b1a47b4941db6b13e728cebd6b6d66305f4fb"
+    },
+    {
+      "path": "src/components/projects",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "67de35ad7a8f9c6d893c952d440501f79bddfd51",
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/trees/67de35ad7a8f9c6d893c952d440501f79bddfd51"
+    },
+    {
+      "path": "src/components/projects/project-card.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c3fb4d55412537e84b7099fdcbdc9be1107549d1",
+      "size": 1986,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/c3fb4d55412537e84b7099fdcbdc9be1107549d1"
+    },
+    {
+      "path": "src/components/projects/project-showcase-list.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "092f259733197f17eafe2e8400c5a43ccfbf532b",
+      "size": 2412,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/092f259733197f17eafe2e8400c5a43ccfbf532b"
+    },
+    {
+      "path": "src/components/projects/project-showcase.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5825748d1b55bc6330ba16a9ede011cddf929e94",
+      "size": 4793,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/5825748d1b55bc6330ba16a9ede011cddf929e94"
+    },
+    {
+      "path": "src/components/skills",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "bfc128f92de6a0f3dacb4b78bbad976626250dc4",
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/trees/bfc128f92de6a0f3dacb4b78bbad976626250dc4"
+    },
+    {
+      "path": "src/components/skills/skills-pill.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "076202a317f0d2852bf09dec830b0fdbd2e15e4b",
+      "size": 549,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/076202a317f0d2852bf09dec830b0fdbd2e15e4b"
+    },
+    {
+      "path": "src/components/skills/skills-showcase.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "61c904a1508fd923bc6dc0027889b2d504c57e47",
+      "size": 1725,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/61c904a1508fd923bc6dc0027889b2d504c57e47"
+    },
+    {
+      "path": "src/components/utility",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "9d7c846d294d58778ea91dcc726b911eb02fa694",
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/trees/9d7c846d294d58778ea91dcc726b911eb02fa694"
+    },
+    {
+      "path": "src/components/utility/corosel.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fed1af5be93ed2bfc8bc0b6e2a9b271ca66d72c5",
+      "size": 2996,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/fed1af5be93ed2bfc8bc0b6e2a9b271ca66d72c5"
+    },
+    {
+      "path": "src/components/utility/custom-input.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a5b6a900ceba61c36f1f367fe0e8b845521126fd",
+      "size": 716,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/a5b6a900ceba61c36f1f367fe0e8b845521126fd"
+    },
+    {
+      "path": "src/components/utility/custom-textarea.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "046f018409d140345585a659f94316185ada76cb",
+      "size": 745,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/046f018409d140345585a659f94316185ada76cb"
+    },
+    {
+      "path": "src/components/utility/custom-toast.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "871498105d11a9b22502d2aabf892a006c5eed3b",
+      "size": 698,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/871498105d11a9b22502d2aabf892a006c5eed3b"
+    },
+    {
+      "path": "src/components/utility/menu-button.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "52b77174fa2762a736db1557da36fb68480a25d7",
+      "size": 1624,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/52b77174fa2762a736db1557da36fb68480a25d7"
+    },
+    {
+      "path": "src/components/utility/mobile-menu.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "92270b7b910899e1a19643f996faccabf7c1bf49",
+      "size": 2569,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/92270b7b910899e1a19643f996faccabf7c1bf49"
+    },
+    {
+      "path": "src/components/utility/theme-switch.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0590364fc1572a162446c50417939d5b9af5a32f",
+      "size": 2091,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/0590364fc1572a162446c50417939d5b9af5a32f"
+    },
+    {
+      "path": "src/data",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "23c47209892e1ea3e053507219ff3b0a45093351",
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/trees/23c47209892e1ea3e053507219ff3b0a45093351"
+    },
+    {
+      "path": "src/data/education.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e9f3b3579f05925b88e355caecde6d4fb6e45875",
+      "size": 1323,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/e9f3b3579f05925b88e355caecde6d4fb6e45875"
+    },
+    {
+      "path": "src/data/experience.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "faa1076436b0b71d48a2b7af589fb6a04f596d0d",
+      "size": 1159,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/faa1076436b0b71d48a2b7af589fb6a04f596d0d"
+    },
+    {
+      "path": "src/data/navigationRoutes.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "408ff34aaafc5a804987501f25eb44623196a5db",
+      "size": 204,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/408ff34aaafc5a804987501f25eb44623196a5db"
+    },
+    {
+      "path": "src/data/projects.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8e0c6747754ecf819d990965fcc19234432b4dbe",
+      "size": 4559,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/8e0c6747754ecf819d990965fcc19234432b4dbe"
+    },
+    {
+      "path": "src/data/siteMetaData.mjs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e8623eeea8b4da2eb0d21c7f9026d08ac19c7452",
+      "size": 757,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/e8623eeea8b4da2eb0d21c7f9026d08ac19c7452"
+    },
+    {
+      "path": "src/data/skills.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "15d07dad1b87645561dc1cadba5d4effa3f89ba0",
+      "size": 3558,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/15d07dad1b87645561dc1cadba5d4effa3f89ba0"
+    },
+    {
+      "path": "src/hooks",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "51cb75b13566cc34ff484e213b1f12503840f9bf",
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/trees/51cb75b13566cc34ff484e213b1f12503840f9bf"
+    },
+    {
+      "path": "src/hooks/useAutoSizeTextarea.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6f32b4b3ec132f6ae1bbec796bcfeaf6109e64e2",
+      "size": 419,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/6f32b4b3ec132f6ae1bbec796bcfeaf6109e64e2"
+    },
+    {
+      "path": "src/hooks/useDebounceValue.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "40e205634718a5d00b848e43d92db3dfe30644f0",
+      "size": 615,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/40e205634718a5d00b848e43d92db3dfe30644f0"
+    },
+    {
+      "path": "src/hooks/useScreenBreakpoint.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3c90672e41ea89c563723c601f4a9b2391921fc1",
+      "size": 499,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/3c90672e41ea89c563723c601f4a9b2391921fc1"
+    },
+    {
+      "path": "src/layout",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "fdc0953529d836eb79d0dbc7f74c1bb940d52f38",
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/trees/fdc0953529d836eb79d0dbc7f74c1bb940d52f38"
+    },
+    {
+      "path": "src/layout/footer.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4ec91e6c13f512dc8affb1ef1829fe91e6bb6cba",
+      "size": 2329,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/4ec91e6c13f512dc8affb1ef1829fe91e6bb6cba"
+    },
+    {
+      "path": "src/layout/main-layout.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "448b9ccf170ea445085c3a9c6da7350acab3b1cd",
+      "size": 652,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/448b9ccf170ea445085c3a9c6da7350acab3b1cd"
+    },
+    {
+      "path": "src/layout/navbar.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9c477dbf3d8022c1120c4a9b3e06ca4cd4476df1",
+      "size": 3235,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/9c477dbf3d8022c1120c4a9b3e06ca4cd4476df1"
+    },
+    {
+      "path": "src/pages",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "c9801e1c3e6fd2e39ef7346be41576f4a76a25ab",
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/trees/c9801e1c3e6fd2e39ef7346be41576f4a76a25ab"
+    },
+    {
+      "path": "src/pages/404.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "367429add408e75e8bd77821404eb17114ea5b37",
+      "size": 352,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/367429add408e75e8bd77821404eb17114ea5b37"
+    },
+    {
+      "path": "src/pages/_app.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "43c2a21ea8c8e2e39a77cf489c0bb5cf268ca61f",
+      "size": 899,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/43c2a21ea8c8e2e39a77cf489c0bb5cf268ca61f"
+    },
+    {
+      "path": "src/pages/_document.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4faff9c69fd637300d834d21e5531c16ab65c7a5",
+      "size": 331,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/4faff9c69fd637300d834d21e5531c16ab65c7a5"
+    },
+    {
+      "path": "src/pages/about.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "08a714d170254cbec1203d1a2f6e5f384abb1c0c",
+      "size": 1914,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/08a714d170254cbec1203d1a2f6e5f384abb1c0c"
+    },
+    {
+      "path": "src/pages/api",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "35383e6db6f5300f59a5dca1343f8fef3970031c",
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/trees/35383e6db6f5300f59a5dca1343f8fef3970031c"
+    },
+    {
+      "path": "src/pages/api/sendmail.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "dbf187403efeddf6654173f36cb0d118d5369d11",
+      "size": 3154,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/dbf187403efeddf6654173f36cb0d118d5369d11"
+    },
+    {
+      "path": "src/pages/index.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "df2c7b475d6d61787dc282c699a95594ef251297",
+      "size": 2234,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/df2c7b475d6d61787dc282c699a95594ef251297"
+    },
+    {
+      "path": "src/pages/projects.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "03cf8b4ee0a687d93c42036ec4da9e43cae18ad0",
+      "size": 3052,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/03cf8b4ee0a687d93c42036ec4da9e43cae18ad0"
+    },
+    {
+      "path": "src/scripts",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "12244f527b33f35473a8b22844ad27adc309a428",
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/trees/12244f527b33f35473a8b22844ad27adc309a428"
+    },
+    {
+      "path": "src/scripts/generateSitemap.mjs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b6b4398315550e9a7032b200fb371ef7554c8076",
+      "size": 1573,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/b6b4398315550e9a7032b200fb371ef7554c8076"
+    },
+    {
+      "path": "src/styles",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "08ef0987874a0f001b3302c248963f5de48f584c",
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/trees/08ef0987874a0f001b3302c248963f5de48f584c"
+    },
+    {
+      "path": "src/styles/globals.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "95a06cb3747566a3909ba487b7db6b1b7482e700",
+      "size": 801,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/95a06cb3747566a3909ba487b7db6b1b7482e700"
+    },
+    {
+      "path": "src/styles/theme-expamples.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "869dae22f999bc962951ea7f646397489ea0efcc",
+      "size": 3187,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/869dae22f999bc962951ea7f646397489ea0efcc"
+    },
+    {
+      "path": "src/utility",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "8f4a96019b7359a7167be337d5892ae650ccd3a1",
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/trees/8f4a96019b7359a7167be337d5892ae650ccd3a1"
+    },
+    {
+      "path": "src/utility/classNames.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3ffaa783d27d9131a0f36a42e0a1626fe639622d",
+      "size": 151,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/3ffaa783d27d9131a0f36a42e0a1626fe639622d"
+    },
+    {
+      "path": "src/utility/cursor-trail.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "db880b33f0aae170340581366c4f8bdf54bd7662",
+      "size": 5885,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/db880b33f0aae170340581366c4f8bdf54bd7662"
+    },
+    {
+      "path": "src/utility/rate-limiter.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "93c3502da305628303d316cda62a4b1717fab391",
+      "size": 5034,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/93c3502da305628303d316cda62a4b1717fab391"
+    },
+    {
+      "path": "src/utility/sendMail.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "065de4a5256fb50898d6216eafd73dab4a2ca81d",
+      "size": 1035,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/065de4a5256fb50898d6216eafd73dab4a2ca81d"
+    },
+    {
+      "path": "src/utility/types.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "668cb91ddfe0722cf686d78cd97d06664878ebb5",
+      "size": 236,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/668cb91ddfe0722cf686d78cd97d06664878ebb5"
+    },
+    {
+      "path": "src/utility/verifyEmail.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3aae4a5c1cb4618cd49237dfe02ee6a36639edfa",
+      "size": 238,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/3aae4a5c1cb4618cd49237dfe02ee6a36639edfa"
+    },
+    {
+      "path": "tailwind.config.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f55364582b0abecf82b9a6d22816c869995d03a4",
+      "size": 879,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/f55364582b0abecf82b9a6d22816c869995d03a4"
+    },
+    {
+      "path": "tsconfig.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "177586f8fb19c5b214db38192af9d200064a5d6a",
+      "size": 641,
+      "url": "https://api.github.com/repos/BUMBAIYA/portfolio-v2/git/blobs/177586f8fb19c5b214db38192af9d200064a5d6a"
+    }
+  ],
+  "truncated": false
+}
