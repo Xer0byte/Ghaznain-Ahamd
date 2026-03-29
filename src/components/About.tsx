@@ -49,10 +49,7 @@ export default function About() {
                 src="profile.png"
                 alt="Ghaznain Ahmad"
                 className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
-                 onError={(e) => {
-                  (e.target as HTMLImageElement).src = "https://picsum.photos/seed/ghaznain-about/600/600";
-                }
-               }
+                 
               />
             </div>
           </motion.div>
