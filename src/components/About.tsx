@@ -46,7 +46,7 @@ export default function About() {
           >
             <div className="relative rounded-full overflow-hidden border-4 border-accent/20 aspect-square w-full max-w-[350px] group shadow-xl bg-muted/50">
               <img
-                src="/public/profile.png"
+                src="Ghaznain-Ahmad/public/profile.png"
                 alt="Ghaznain Ahmad"
                 className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
                  
