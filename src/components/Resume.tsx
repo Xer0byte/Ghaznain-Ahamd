@@ -29,6 +29,17 @@ const education = [
 
 const experience = [
   {
+    title: "Data Annotator & Team Leader",
+    company: "Akademos Research",
+    year: "Apr 2026 – Sep 2026",
+    location: "Lahore, Pakistan",
+    description: [
+      "Performed high-quality AI data annotation tasks using Shelfr annotation software for research-grade datasets.",
+      "Served as Team Leader — managed annotation workflow, ensured quality control, and mentored junior annotators in the office.",
+      "Recognized as one of the top-performing annotators in Lahore office for exceptional accuracy, speed, and consistent output."
+    ]
+  },
+  {
     title: "Founder & Lead Developer",
     company: "Xer0byte",
     year: "Jan 2022 – Present",
