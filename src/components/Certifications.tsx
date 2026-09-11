@@ -3,6 +3,7 @@ import { SiCisco, SiCoursera, SiKaggle, SiUdemy, SiGooglecloud } from 'react-ico
 import { FaCertificate, FaGraduationCap, FaMicrosoft, FaLinkedin, FaUniversity, FaBriefcase, FaBuilding, FaLaptopCode } from 'react-icons/fa';
 
 const certifications = [
+  { title: "Data Annotation & Team Leadership", issuer: "Akademos Research Office", date: "Sep 2026", icon: FaBriefcase, color: "#FF9800" },
   { title: "Artificial Intelligence Fundamentals", issuer: "IBM", date: "Sep 2025", icon: FaCertificate, color: "#0530AD" },
   { title: "Introduction to Modern AI", issuer: "Cisco", date: "Aug 2025", icon: SiCisco, color: "#1BA0D7" },
   { title: "Digital Marketing Fundamentals", issuer: "Simplilearn", date: "Aug 2025", icon: FaGraduationCap, color: "#0072C6" },

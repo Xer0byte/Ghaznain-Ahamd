@@ -3,6 +3,11 @@ import { BrainCircuit, Code, ShieldCheck, BarChart, PenTool, Building2, Database
 
 const services = [
   {
+    title: "AI Data Annotation & Quality Control",
+    description: "I provide high-quality AI data labeling and annotation using tools like Shelfr for research-grade datasets, ensuring strict quality control and efficient team management.",
+    icon: Search
+  },
+  {
     title: "AI & Machine Learning Solutions",
     description: "I offer AI and Machine Learning services tailored to real-world applications. From predictive analytics to NLP and computer vision, I design intelligent models that drive automation and innovation.",
     icon: BrainCircuit

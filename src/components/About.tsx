@@ -11,7 +11,7 @@ export default function About() {
 
   const info = [
     { label: 'Birthday', value: '31 OCT 2005' },
-    { label: 'Age', value: '20' },
+    { label: 'Age', value: '21' },
     { label: 'Degree', value: 'Bachelor 2024-28' },
     { label: 'City', value: 'Lahore, Pakistan' },
     { label: 'Email', value: 'ghaznain1122@gmail.com' },
@@ -31,7 +31,7 @@ export default function About() {
         >
           <h2 className="text-xl font-semibold text-accent sm:text-4xl mb-4">About Me</h2>
           <p className="text-base text-muted-foreground leading-relaxed max-w-4xl sm:text-lg">
-            I am an AI/ML Engineer, Web Developer, and Automation Specialist passionate about building practical AI solutions. I design intelligent agents, develop modern web applications, and apply engineering precision through AutoCAD and 3D design to create impactful digital products.
+            I am an AI/ML Engineer, Web Developer, and Automation Specialist passionate about building practical AI solutions. I design intelligent agents, lead AI data annotation teams, develop modern web applications, and apply engineering precision through AutoCAD and 3D design to create impactful digital products.
           </p>
         </motion.div>
 

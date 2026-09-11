@@ -34,7 +34,8 @@ export default function Hero() {
             <span className="font-semibold text-accent">Python</span>,{" "}
             <span className="font-semibold text-accent">Machine Learning</span>,{" "}
             <span className="font-semibold text-accent">ReactJS</span>, and an expert in{" "}
-            <span className="font-semibold text-accent">Automation</span> and{" "}
+            <span className="font-semibold text-accent">Automation</span>,{" "}
+            <span className="font-semibold text-accent">AI Data Annotation</span>, and{" "}
             <span className="font-semibold text-accent">AutoCAD</span>.
           </p>
 

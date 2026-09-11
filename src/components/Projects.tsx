@@ -3,6 +3,14 @@ import { ExternalLink, Github } from 'lucide-react';
 
 const projects = [
   {
+    title: "Research-Grade AI Datasets",
+    description: "Led an annotation team at Akademos Research to process and quality-control high-precision data for AI model training using Shelfr software.",
+    image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=800&h=600&auto=format&fit=crop",
+    tags: ["Data Annotation", "Shelfr", "Quality Control", "Team Leadership"],
+    github: "https://github.com/Xer0byte",
+    demo: "#"
+  },
+  {
     title: "AI-Powered Chatbot",
     description: "An intelligent chatbot built with Python, LangChain, and OpenAI API, capable of handling customer inquiries and automating support tasks.",
     image: "https://images.unsplash.com/photo-1555949963-aa79dcee981c?q=80&w=800&h=600&auto=format&fit=crop",

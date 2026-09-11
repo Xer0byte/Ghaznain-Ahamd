@@ -44,6 +44,9 @@ const skills = [
   { name: 'Docker', level: 65, icon: SiDocker, color: '#2496ED' },
   { name: 'GitHub Actions', level: 65, icon: SiGithubactions, color: '#2088FF' },
   { name: 'Git/GitHub', level: 90, icon: SiGithub, color: '#FFFFFF' },
+  { name: 'AI Data Annotation', level: 95, icon: FaRobot, color: '#4CAF50' },
+  { name: 'Shelfr (Labeling)', level: 90, icon: FaCogs, color: '#FF5722' },
+  { name: 'Team Leadership', level: 85, icon: FaLightbulb, color: '#FF9800' },
   { name: 'AutoCAD (2D/3D)', level: 75, icon: SiAutodesk, color: '#0696D7' },
   { name: 'Revit', level: 70, icon: SiAutodeskrevit, color: '#0696D7' },
 ];
