@@ -16,12 +16,15 @@ export default function Hero() {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.6 }}
         >
-          <h1 className="text-5xl md:text-7xl xl:text-8xl font-bold text-transparent bg-clip-text bg-accent py-2 mb-4">
+          <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-accent/10 border border-accent/20 text-accent text-xs sm:text-sm font-semibold tracking-wide uppercase mb-4">
+            Xer0byte &bull; Official Portfolio
+          </div>
+          <h1 className="text-5xl md:text-7xl xl:text-8xl font-bold text-transparent bg-clip-text bg-accent py-2 mb-2">
             Ghaznain Ahmad
           </h1>
-          <span className="text-xl font-semibold text-foreground md:text-3xl block mb-8">
-            Software Developer & AI/ML Engineer
-          </span>
+          <h2 className="text-xl font-semibold text-foreground md:text-3xl block mb-8">
+            Founder of Xer0byte &bull; AI Solutions, Python &amp; Web Developer
+          </h2>
         </motion.div>
         
         <motion.div
@@ -29,8 +32,8 @@ export default function Hero() {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.6, delay: 0.2 }}
         >
-          <p className="text-base font-semibold text-muted-foreground sm:text-base md:text-xl max-w-3xl mx-auto mb-10 leading-relaxed">
-            I am a software developer specializing in building high-performance, user-focused web applications and AI solutions. Skilled in{" "}
+          <p className="text-base font-medium text-muted-foreground sm:text-base md:text-xl max-w-3xl mx-auto mb-10 leading-relaxed">
+            Welcome to <strong className="text-foreground font-semibold">Xer0byte</strong>, the technology solutions brand led by <strong className="text-foreground font-semibold">Ghaznain Ahmad</strong>. I specialize in building high-performance, user-focused web applications and custom AI solutions. Skilled in{" "}
             <span className="font-semibold text-accent">Python</span>,{" "}
             <span className="font-semibold text-accent">Machine Learning</span>,{" "}
             <span className="font-semibold text-accent">ReactJS</span>, and an expert in{" "}

@@ -31,7 +31,7 @@ export default function About() {
         >
           <h2 className="text-xl font-semibold text-accent sm:text-4xl mb-4">About Me</h2>
           <p className="text-base text-muted-foreground leading-relaxed max-w-4xl sm:text-lg">
-            I am an AI/ML Engineer, Web Developer, and Automation Specialist passionate about building practical AI solutions. I design intelligent agents, lead AI data annotation teams, develop modern web applications, and apply engineering precision through AutoCAD and 3D design to create impactful digital products.
+            As the founder of <strong className="text-foreground font-semibold">Xer0byte</strong>, I am an AI/ML Engineer, Web Developer, and Automation Specialist passionate about building practical, high-impact digital solutions. I design intelligent AI agents, lead precision data annotation workflows, develop modern full-stack web applications, and apply engineering rigor to solve complex technological challenges.
           </p>
         </motion.div>
 
@@ -47,7 +47,10 @@ export default function About() {
             <div className="relative rounded-full overflow-hidden border-4 border-accent/20 aspect-square w-full max-w-[350px] group shadow-xl bg-muted/50">
               <img
                 src="/profile.png"
-                alt="Ghaznain Ahmad"
+                alt="Ghaznain Ahmad - Founder and Lead Developer of Xer0byte"
+                width={350}
+                height={350}
+                loading="lazy"
                 className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
                 onError={(e) => {
                   (e.target as HTMLImageElement).src = "https://picsum.photos/seed/ghaznain-about/600/600";

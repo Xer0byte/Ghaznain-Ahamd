@@ -1,0 +1,43 @@
+# robots.txt for Xer0byte
+# Official Website: https://xer0byte.netlify.app/
+
+User-agent: *
+Allow: /
+
+# Major Search Engine Crawlers
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+# Generative AI & LLM Search Crawlers
+User-agent: Google-Extended
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+# XML Sitemap Location
+Sitemap: https://xer0byte.netlify.app/sitemap.xml

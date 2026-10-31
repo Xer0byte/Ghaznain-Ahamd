@@ -74,15 +74,18 @@ export default function Projects() {
               <div className="relative h-64 overflow-hidden">
                 <img 
                   src={project.image} 
-                  alt={project.title} 
+                  alt={`${project.title} - Xer0byte AI & Software Project`} 
+                  loading="lazy"
+                  width={800}
+                  height={600}
                   className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
                   referrerPolicy="no-referrer"
                 />
                 <div className="absolute inset-0 bg-black/50 opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex items-center justify-center space-x-4">
-                  <a href={project.github} target="_blank" rel="noreferrer" className="w-12 h-12 rounded-full bg-background flex items-center justify-center text-foreground hover:text-accent transition-colors">
+                  <a href={project.github} target="_blank" rel="noreferrer" aria-label={`View source code for ${project.title} on GitHub`} className="w-12 h-12 rounded-full bg-background flex items-center justify-center text-foreground hover:text-accent transition-colors">
                     <Github size={24} />
                   </a>
-                  <a href={project.demo} target="_blank" rel="noreferrer" className="w-12 h-12 rounded-full bg-accent flex items-center justify-center text-accent-foreground hover:bg-accent/90 transition-colors">
+                  <a href={project.demo} target="_blank" rel="noreferrer" aria-label={`View live demo or details for ${project.title}`} className="w-12 h-12 rounded-full bg-accent flex items-center justify-center text-accent-foreground hover:bg-accent/90 transition-colors">
                     <ExternalLink size={24} />
                   </a>
                 </div>

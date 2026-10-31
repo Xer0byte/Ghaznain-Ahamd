@@ -11,6 +11,7 @@ import Resume from './components/Resume';
 import Projects from './components/Projects';
 import Services from './components/Services';
 import Certifications from './components/Certifications';
+import FAQ from './components/FAQ';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
 import CursorTrailCanvas from './components/CursorTrailCanvas';
@@ -30,6 +31,7 @@ export default function App() {
         <Projects />
         <Services />
         <Certifications />
+        <FAQ />
         <Contact />
         <Footer />
       </main>

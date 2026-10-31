@@ -9,6 +9,7 @@ const navItems = [
   { name: 'Resume', href: '#resume' },
   { name: 'Projects', href: '#projects' },
   { name: 'Services', href: '#services' },
+  { name: 'FAQ', href: '#faq' },
   { name: 'Contact', href: '#contact' },
 ];
 
@@ -74,6 +75,7 @@ export default function Navbar() {
         {/* Mobile Menu Button */}
         <button
           onClick={() => setIsOpen(!isOpen)}
+          aria-label={isOpen ? "Close navigation menu" : "Open navigation menu"}
           className="md:hidden z-50 p-2 rounded-full bg-muted text-foreground"
         >
           {isOpen ? <X size={20} /> : <Menu size={20} />}
